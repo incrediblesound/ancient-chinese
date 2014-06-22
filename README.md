@@ -8,7 +8,7 @@ Given these two highly distinct factors in combination with my desire to not was
 
 ##Section reference
 Each book is contained in its own file and is wrapped in a "book" tag.    
-Each book and each section/chapter of each book has a "title" tag.
+Each book and each section/chapter of each book has a "title" tag.    
 Each section has a "cn" original chinese, "each" word for word translation, "en" english translation, and "notes" commentary.
 
 ##Important Note

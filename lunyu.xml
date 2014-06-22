@@ -1,0 +1,25 @@
+<book><title>Confucius - The Analects (论语)</title>
+
+<description>"The Analects of Confucius was almost certainly compiled by his students, for he was an active teacher and lecturer and not a reclusive scholar like other Chinese philosophers. While Chinese tradition attributes many classical texts to his editorial/clerical efforts, it is impossible to verify what was written or transmitted by him. People interested in the historical details of the different sections of the text (which part is oldest which part was added later etc) should read 'The Original Analects' by Bruce and Taiko Brooks."</description>
+
+<I><title>"学而 - Chapter one 'Study and...'"</title>
+    <1>
+        <cn>"子曰学而时习之不亦悦乎"</cn>
+        <each>[{"子":"the master"},{"曰":"said"},{"学":"to study"},{"而":"and"},{"时":"frequently"},{"习":"review"},{"之":"it"},{"不":"not"},{"亦":"indeed"},{"悦":"joyful"},{"乎":"hu?"}]</each>
+        <en>Kongzi said: Isn't it wonderful to study and practice what you learn?</en>
+        <notes>["(1) The word 'and' is a little bit ambiguous, the most accurate translation of this character is 'and under those conditions'.","(4) This is the character for 'time' being used in an adverbial position. Part of speech, and indeed meaning in general, is very flexible in classical Chinese.","(6) This is the object of the word 'review'.","(10) This word indicates an emphatic question when found at the end of a sentence. The implied answer is positive, i.e. 'yes it is joyful'."]</notes>
+    </1>
+    <2>
+        <cn>"有朋自远方来不亦乐乎"</cn>
+        <each>[{"有":"to have"},{"朋":"friends"},{"自":"from"},{"远":"distant"},{"方":"direction"},{"来":"come"},{"不":"not"},{"亦":"indeed"},{"乐":"joyous"},{"乎":"hu?"}]</each>
+        <en>"To have friends come from afar, is that not joyous?"</en>
+        <notes>["(4) This character originally meant square, came to means 'side' or 'direction' via abstraction, and here means 'place'."]</notes>
+    </2>
+    <3>
+        <cn>"人不知而不愠不亦君子乎"</cn>
+        <each>[{"人":"people"},{"不":"not"},{"知":"know"},{"而":"and"},{"不":"not"},{"愠":"angry"},{"不":"not"},{"亦":"indeed"},{"君子":"gentleman"},{"乎":"hu?"}]</each>
+        <en>"To be unknown and not care, that is a true scholar"</en>
+        <notes>["(en) I took some liberties with the translation here but I think it gets the original meaning across better than a literal approach.","(2) The object of know is left off, the traditional interpretation is that the object is 'you', making this a comment about vanity.","(8) The 'gentleman' is the ideal scholar official. He is a learned, cultivated person who works for the government."]</notes>
+    </3>
+</I>
+</book>

@@ -3,23 +3,35 @@
 <description>"The Analects of Confucius was almost certainly compiled by his students, for he was an active teacher and lecturer and not a reclusive scholar like other Chinese philosophers. While Chinese tradition attributes many classical texts to his editorial/clerical efforts, it is impossible to verify what was written or transmitted by him. People interested in the historical details of the different sections of the text (which part is oldest which part was added later etc) should read 'The Original Analects' by Bruce and Taiko Brooks."</description>
 
 <I><title>"学而 - Chapter one 'Study and...'"</title>
-    <1>
+    <1-1>
         <cn>"子曰学而时习之不亦悦乎"</cn>
         <each>[{"子":"the master"},{"曰":"said"},{"学":"to study"},{"而":"and"},{"时":"frequently"},{"习":"review"},{"之":"it"},{"不":"not"},{"亦":"indeed"},{"悦":"joyful"},{"乎":"hu?"}]</each>
         <en>Kongzi said: Isn't it wonderful to study and practice what you learn?</en>
         <notes>["(1) The word 'and' is a little bit ambiguous, the most accurate translation of this character is 'and under those conditions'.","(4) This is the character for 'time' being used in an adverbial position. Part of speech, and indeed meaning in general, is very flexible in classical Chinese.","(6) This is the object of the word 'review'.","(10) This word indicates an emphatic question when found at the end of a sentence. The implied answer is positive, i.e. 'yes it is joyful'."]</notes>
-    </1>
-    <2>
+    </1-1>
+    <1-2>
         <cn>"有朋自远方来不亦乐乎"</cn>
         <each>[{"有":"to have"},{"朋":"friends"},{"自":"from"},{"远":"distant"},{"方":"direction"},{"来":"come"},{"不":"not"},{"亦":"indeed"},{"乐":"joyous"},{"乎":"hu?"}]</each>
         <en>"To have friends come from afar, is that not joyous?"</en>
         <notes>["(4) This character originally meant square, came to means 'side' or 'direction' via abstraction, and here means 'place'."]</notes>
-    </2>
-    <3>
+    </1-2>
+    <1-3>
         <cn>"人不知而不愠不亦君子乎"</cn>
         <each>[{"人":"people"},{"不":"not"},{"知":"know"},{"而":"and"},{"不":"not"},{"愠":"angry"},{"不":"not"},{"亦":"indeed"},{"君子":"gentleman"},{"乎":"hu?"}]</each>
         <en>"To be unknown and not care, that is a true scholar"</en>
         <notes>["(en) I took some liberties with the translation here but I think it gets the original meaning across better than a literal approach.","(2) The object of know is left off, the traditional interpretation is that the object is 'you', making this a comment about vanity.","(8) The 'gentleman' is the ideal scholar official. He is a learned, cultivated person who works for the government."]</notes>
-    </3>
+    </1-3>
+    <2-1>
+        <cn>"有子曰其为人也孝悌而好犯上者鲜矣不好犯上而好作乱者未之有也"</cn>
+        <each>[{"有子":"Master You"},{"曰":"said"},{"其":"their"},{"为":"being"},{"人":"people"},{"也":"ye"},{"孝":"filial"},{"悌":"fraternal"},{"而":"and"},{"好":"love"},{"犯":"violate"},{"上":"upper"},{"者":"the one who"},{"鲜":"rare"},{"矣":"really"},{"不":"not"},{"好":"love"},{"犯":"violate"},{"上":"upper"},{"而":"and"},{"好":"love"},{"作":"do"},{"乱":"chaos"},{"者":"the one who"},{"未":"never once"},{"之":"it"},{"有":"was"},{"也":"ye"}]</each>
+        <en>"Master You said: as for people, the ones who are filial and fraternal and like to offend their superiors are really rare, there never was one who did not like to offend their superiors and yet liked to create chaos."</en>
+        <notes>["(5) This character often comes at the end of a definition in the form A is B也, but here it seems to serve as a topic marker.","(11) The abstract term 'upper' or 'above' often refers to those at the top of society, the leaders and rulers etc."]</notes>
+    </2-1>
+    <2-2>
+        <cn>"君子务本本立而道生孝悌也者其为仁之本与"</cn>
+        <each>[{"君子":"The gentleman"},{"务":"work on"},{"本":"foundation"},{"本":"foundation"},{"立":"stands"},{"而":"and"},{"道":"the way"},{"生":"is born"},{"孝":"filial piety"},{"悌":"fraternity"},{"也者":"yezhe"},{"其":"they"},{"为":"be"},{"仁":"benevolence"},{"之":"of"},{"本":"foundation"},{"与":"yu"}]</each>
+        <en>"The gentleman serves the foundation. When the foundation is established the way is born. As for filial piety and fraternity, they are the foundation of benevolence"</en>
+        <notes>["(6) The way in confucianism means the ability of rulers to communicate with those below them and impart ethical truths.","(10) This is a compound topic marker.","(16) This character apears to be an emphatic sentence final with no meaning."]</notes>
+    </2-2>
 </I>
 </book>

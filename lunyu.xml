@@ -7,7 +7,7 @@
         <cn>"子曰学而时习之不亦悦乎"</cn>
         <each>[{"子":"the master"},{"曰":"said"},{"学":"to study"},{"而":"and"},{"时":"frequently"},{"习":"review"},{"之":"it"},{"不":"not"},{"亦":"indeed"},{"悦":"joyful"},{"乎":"hu?"}]</each>
         <en>Kongzi said: Isn't it wonderful to study and practice what you learn?</en>
-        <notes>["(1) The word 'and' is a little bit ambiguous, the most accurate translation of this character is 'and under those conditions'.","(4) This is the character for 'time' being used in an adverbial position. Part of speech, and indeed meaning in general, is very flexible in classical Chinese.","(6) This is the object of the word 'review'.","(10) This word indicates an emphatic question when found at the end of a sentence. The implied answer is positive, i.e. 'yes it is joyful'."]</notes>
+        <notes>["(3) The word 'and' is a little bit ambiguous, the most accurate translation of this character is 'and under those conditions'.","(4) This is the character for 'time' being used in an adverbial position. Part of speech, and indeed meaning in general, is very flexible in classical Chinese.","(6) This is the object of the word 'review'.","(10) This word indicates an emphatic question when found at the end of a sentence. The implied answer is positive, i.e. 'yes it is joyful'."]</notes>
     </1-1>
     <1-2>
         <cn>"有朋自远方来不亦乐乎"</cn>
@@ -33,5 +33,11 @@
         <en>"The gentleman serves the foundation. When the foundation is established the way is born. As for filial piety and fraternity, they are the foundation of benevolence"</en>
         <notes>["(6) The way in confucianism means the ability of rulers to communicate with those below them and impart ethical truths.","(10) This is a compound topic marker.","(16) This character apears to be an emphatic sentence final with no meaning."]</notes>
     </2-2>
+    <3-1>
+        <cn>"子曰巧言令色鲜矣仁"</cn>
+        <each>[{"子":"The master"},{"曰":"said"},{"巧":"crafty"},{"言":"words"},{"令":"beautiful"},{"色":"appearance"},{"鲜":"rare"},{"矣":"yi"},{"仁":"benevolent"}]</each>
+        <en>"Kongzi said: the benevolent rarely use crafty language or have ostentatious appearance."</en>
+        <notes>["(cn) This passage appears to state that a good offficial is simple and direct in both language and appearance. It goes without saying that this ideal was probably very rarely realized."]</notes>
+    </3-1>
 </I>
 </book>
